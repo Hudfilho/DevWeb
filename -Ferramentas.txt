@@ -1,0 +1,31 @@
+-Ferramentas
+
+Python : https://www.python.org/
+git : https://git-scm.com/
+vscode : https://code.visualstudio.com/
+
+googlechrome : https://www.google.pt/intl/pt-PT/chrome/
+firefox : https://firefox-source-docs.mozilla.org/taskcluster/reference.html
+Edge : https://learn.microsoft.com/en-us/microsoft-edge/
+
+- identificacao
+
+python: Python is a popular programming language that is widely used in the development of web applications. It is easy to learn, has a large and active community, and is supported by a wealth of libraries and frameworks.
+
+git : One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase.
+-https://levelup.gitconnected.com/5-reasons-why-git-is-so-important-ef5def09888b
+
+vscode : Visual Studio Code for the Web provides a free, zero-install Microsoft Visual Studio Code experience running entirely in your browser, allowing you to quickly and safely browse source code repositories and make lightweight code changes. https://code.visualstudio.com/docs/editor/vscode-web 
+
+navegadores : A web browser is the second most important tool after interactive development environment (IDE) for website developers. It’s simply indispensable for plenty of tasks, from searching the Web to debugging scripts.
+* Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+
+https://github.com/ibmec-tec/des-web-1-2023-2
+
+Css referencia:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+
+HTML referencia:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
