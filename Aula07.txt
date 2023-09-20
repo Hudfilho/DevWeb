@@ -1,0 +1,43 @@
+var primeira = 12;
+let segunda = "casa";
+const terceira = ['casa', 'banana', 2];
+
+//console.log(primeira++ +": primeira");
+
+console.log(terceira.length);
+
+console.log("terceira[0] "+ terceira[0]);
+terceira[0] = 'nada';
+console.log("terceira[0] "+ terceira[0]);
+
+const quarta = {
+  primeira: 1,
+  segunda: 'tudo'
+}
+
+console.log("quarta " + quarta);
+console.log("quarta.primeira " + quarta.primeira);
+quarta.terceiro = 'nada'
+console.log("quarta.terceiro " + quarta.terceiro);
+
+function minha_funcao(entrada){
+  return entrada + 2;
+}
+
+console.log(minha_funcao(3))
+
+const seta = (entrada) => {
+  return entrada + 4;
+}
+console.log(seta(3))
+
+const seta2= (entrada) => entrada + 192;
+console.log(seta2(8))
+
+
+
+
+
+
+
+
