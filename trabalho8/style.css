@@ -1,0 +1,59 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+
+#item1 {
+    /* grid-column-start: 1;
+    grid-column-end: 3;*/
+    grid-row: 1/3;
+}
+#item0 {
+    background-image:url("Gojo.webp");
+    background-size: 100% 100%;
+}
+#item9 {
+    background-image:url("images.jpg");
+    background-size: 100% 100%;
+}
+
+@media screen and (min-width: 400px){
+    .grid-container{
+        grid-template-columns: auto auto;
+        background-color: #00FF00;
+    }
+}
+
+@media screen and (min-width: 800px){
+    .grid-container{
+        grid-template-columns: auto auto auto;
+
+        background-color: #0000FF;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .grid-container{
+        grid-template-columns: auto auto auto auto;
+        
+        background-color: #FF0000;
+    }
+}
+@media screen and (min-width: 1600px){
+    .grid-container{
+        grid-template-columns: auto auto auto auto;
+        
+        background-color: #FF00FF;
+    }
+}
